@@ -5,7 +5,7 @@ System TORrent służy do ściągania i udostępniania plików.
 
 
 
-System obeje poniżej wymienione funkcjonalności:
+System skonfigurowany do przetestowania na 1 komputerze obejmue poniżej wymienione funkcjonalności:
 
 1-Wymiana list udostępnianych plików między hostami.
 
